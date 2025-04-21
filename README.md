@@ -4,11 +4,11 @@ This repository contains a collection of Jupyter Notebooks developed as part of 
 
 ### 📁 Repository Structure
 
-Capstone Python Notebooks/: A series of notebooks dedicated to the Capstone Project, focusing on real-world data analysis and visualization tasks.​
+**Capstone Python Notebooks**: A series of notebooks dedicated to the Capstone Project, focusing on real-world data analysis and visualization tasks.​
 
-DataScienceEcosystem.ipynb: An introductory notebook that outlines the data science ecosystem, including tools, languages, and libraries commonly used in the field.​
+**DataScienceEcosystem.ipynb**: An introductory notebook that outlines the data science ecosystem, including tools, languages, and libraries commonly used in the field.​
 
-Final Assignment - Analysing Stock Data and Building Dashboard.ipynb: A comprehensive project that involves analyzing stock market data and creating an interactive dashboard to visualize insights.
+**Final Assignment - Analysing Stock Data and Building Dashboard.ipynb**: A comprehensive project that involves analyzing stock market data and creating an interactive dashboard to visualize insights.
 
 ### 🙏 Acknowledgments
 
